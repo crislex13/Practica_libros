@@ -1,0 +1,6 @@
+com\emergentes\coleccion_de_libros\categoria.class
+com\emergentes\coleccion_de_libros\Controller_categoria.class
+com\emergentes\coleccion_de_libros\Gestorlibro.class
+com\emergentes\coleccion_de_libros\Gestorcategorias.class
+com\emergentes\coleccion_de_libros\libro.class
+com\emergentes\coleccion_de_libros\Controller.class
